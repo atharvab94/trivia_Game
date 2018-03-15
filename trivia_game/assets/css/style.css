@@ -1,0 +1,11 @@
+body, 
+html {
+	min-height: 100%;
+}
+
+body {
+	background-image: url(http://questkermodes.com/general/2017-18/soccer_generic.jpg);
+	background-size:cover;
+    background-repeat: no-repeat;
+    color: white;
+}
